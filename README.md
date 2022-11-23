@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gh-mean&show_icons=true&theme=tokyonight?count_private=true)
+
 
 <!--
 **Gh-mean/Gh-mean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
