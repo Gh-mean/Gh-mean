@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gh-mean&show_icons=true&theme=tokyonight?count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gh-mean&show_icons=true&theme=tokyonight?count_private=true)
 
 
 <!--
